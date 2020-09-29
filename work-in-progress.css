@@ -1,0 +1,173 @@
+body{
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.nav1{
+	position: absolute;top: 0px; left: -467px;
+	transform: rotate(90deg);
+	width: 1260px;
+	height: 325px;
+	background: #C09E48; /* fallback color if gradients are not supported*/ 
+	background: -webkit-linear-gradient(-1deg,rgba(192,158,72,0.5), rgba(252,255,255,0) 84%, #FFFFFF 100%);
+	background: -moz-linear-gradient(-1deg,rgba(192,158,72,0.5), rgba(252,255,255,0) 84%, #FFFFFF 100%);
+	background: -o-linear-gradient(-1deg,rgba(192,158,72,0.5), rgba(252,255,255,0) 84%, #FFFFFF 100%);
+	background: linear-gradient(-1deg,rgba(192,158,72,0.5), rgba(252,255,255,0) 84%, #FFFFFF 100%);
+	z-index: 2;
+}
+
+.nav2{
+    position: absolute;top: 0px; left: 895px;
+	transform: rotate(90deg);
+	width: 1260px;
+	height: 325px;
+	background: #C09E48; /* fallback color if gradients are not supported*/ 
+	background: -webkit-linear-gradient(180deg,rgba(192,158,72,0.5) 11%, rgba(252,255,255,0) 84%, #FFFFFF 100%);
+	background: -moz-linear-gradient(180deg,rgba(192,158,72,0.5) 11%, rgba(252,255,255,0) 84%, #FFFFFF 100%);
+	background: -o-linear-gradient(180deg,rgba(192,158,72,0.5) 11%, rgba(252,255,255,0) 84%, #FFFFFF 100%);
+	background: linear-gradient(180deg,rgba(192,158,72,0.5) 11%, rgba(252,255,255,0) 84%, #FFFFFF 100%);
+	z-index: 2;
+}
+
+.img1{
+	width: 190px;
+	 position: absolute;top: 18px; left: 284px;
+	 z-index: 2;
+}
+.nuage1{
+	width: 240px;
+    position: absolute;top: 20px; left: 22px;
+    z-index: 2;
+}
+
+.img3{
+	width: 195px;
+	position: absolute;top: 24px; left: 785px;
+	z-index: 3;
+}
+
+.nuagepng3{
+	width: 200px;
+	  position: absolute;top: 15px; left: 600px;
+	  z-index: 1;
+}
+
+.nuagepng4{
+	transform: rotate(-1deg);
+	width: 200px;
+    position: absolute;top: 40px; left: 1100px;
+    z-index: 2;
+}
+
+.img6{
+	width: 190px;
+	  position: absolute;top: 10px; left: 934px;
+	  z-index: 4;
+}
+
+.nuagepng2{
+	width: 200px;
+	 position: absolute;top: 42px; left: 380px;
+	 z-index: 2;
+}
+
+.Packet{
+	position: absolute;top: -20px; left:-10px;
+	z-index: 5;
+}
+
+.lego1{
+	width: 78.5px;
+	height: 78.5px;
+	position: absolute;top: 805px; left: 515px;
+	z-index: 3;
+}
+
+.lego2{
+	width: 78.5px;
+	height: 78.5px;
+	position: absolute;top: 805px; left: 1090px;
+	z-index: 3;
+}
+
+.logo{
+	width: 80px;
+	height: 80px;
+	position: absolute;top: 800px; left: 50;
+	z-index: 3;
+}
+
+footer{
+  background: #998B7D;
+  position: absolute;top:785px; left: 0px;
+  bottom: 10;
+  width: 100%;
+  height: 95px;
+  margin-top: 0px;
+  color:white;
+  z-index: 2;
+}
+
+footer p{
+	text-align: center;
+	font-size: 18px;
+	font-family: cursive;
+	z-index: 2;
+}
+
+p{
+	font-family: cursive;
+	z-index: 2;
+
+}
+
+
+.gru{
+	width: 780px;
+	position: absolute;top:165px; left: 377px;
+	z-index: 1;
+}
+
+.chantier{
+	width: 435px;
+	position: absolute;top:415px; left: 775px;
+	z-index: 1;
+}
+
+button{
+  background-color: green;
+  text-shadow: 0px 0px 5px rgba(0,0,0, 0.5);
+  border-radius: 15px;
+  font-family: Arial;
+  color: #ebf1f5;
+  font-size: 28px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;top: 807px; left: 150px;
+  z-index: 3;
+
+}
+
+.coline{
+	width: 550px;
+	height: 550px;
+	position: absolute;top: 175px; left: 555px;
+	border-radius: 100px;
+
+}
+
+h1{
+	bottom: 0;
+	background-color: #white;
+	padding: 10px;
+	margin: 0px;
+	box-shadow: 5px 5px 12px #aaa;
+	border: 5px white;
+	font-weight: lighter;
+	font-family: Stencil Std,Jazz LET,fantasy; 
+	font-size: 80px;
+	color: #FFA500;
+	text-decoration:underline;
+	text-align: center 
